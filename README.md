@@ -8,3 +8,6 @@
 <br><i>Presidential Campaign / 2020Election / Trump Campaign </i>
 <br><i>Fox news / foxnews </i>
 <br><i>Democrats Buttigieg / Pete Buttigieg </i>
+
+<br><br> Visualized results - https://public.tableau.com/views/Book2_15558949468740/twitter_wordCount?:embed=y&:display_count=yes&publish=yes
+
